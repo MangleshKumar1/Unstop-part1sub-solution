@@ -23,3 +23,8 @@ The following modules from the Selenium Library are used in this code: Webdriver
 web scraping requires a web driver. we will use the Chrome browser, and the Chrome driver is downloaded from the internet.
 # Set Up WebDriver:
 Require Chrome WebDriver (chromedriver) executable in the same directory as of Python script or provide the correct path to it in the executable_path parameter when creating the WebDriver.
+
+# Rayobyte
+Rayobyte is a proxy vendor, they sell data center, residential and mobile proxies that can be used for scraping the web
+we cannot make too many requests from the same IP address in a certain timeframe, otherwise we would be blocked.
+That’s the main reason why proxy providers are used when it comes to web scraping.
