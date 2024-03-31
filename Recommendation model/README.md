@@ -1,1 +1,1 @@
-This is file for Recommendation Purpose
+This is file for job recommendation system
