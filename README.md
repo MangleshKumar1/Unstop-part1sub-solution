@@ -15,7 +15,7 @@ driver = webdriver.Chrome('/path/to/chromedriver')
 an example of using Selenium for web scraping, to scrape data from a table on a web page.
 
 
-# linkedin_scraper.py
+# job_scraper.py
 Installing Required Libraries: Ensuring the necessary libraries installed. 
 using pip to install libraries like BeautifulSoup, Selenium, and Pandas.
 The following modules from the Selenium Library are used in this code: Webdriver, expected conditions, options, Keys, and sleep from time.
